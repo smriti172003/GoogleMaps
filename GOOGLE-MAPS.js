@@ -9,7 +9,8 @@ $('#btn2').on('click',function(){
     for(let j=0;j<k;j++)
     { infos[j].close();   }
 
-})
+}) 
+
 
 
 function initMap() {
